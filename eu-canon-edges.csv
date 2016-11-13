@@ -1,0 +1,28 @@
+Galactic Empire,hasMember,Rae Sloane
+Galactic Empire,hasMember,Gilad Pellaeon
+Galactic Empire,hasMember,Natasi Daala
+Imperial Academy,hasStudent,Rae Sloane
+Imperial Academy,hasStudent,Gilad Pellaeon
+Imperial Academy,hasStudent,Natasi Daala
+Core Worlds,hasDenizen,Rae Sloane
+Core Worlds,hasDenizen,Gilad Pellaeon
+Battle of Endor,hasCombatant,Rae Sloane
+Battle of Endor,hasCombatant,Gilad Pellaeon
+Star Destroyer,hasCommander,Rae Sloane
+Star Destroyer,hasCommander,Gilad Pellaeon
+Star Destroyer,hasCommander,Natasi Daala
+Human (species),hasMember,Rae Sloane
+Human (species),hasMember,Gilad Pellaeon
+Human (species),hasMember,Natasi Daala
+Rebel Alliance,hasMember,Wedge Antilles
+Battle of Endor,hasCombatant,Wedge Antilles
+Battle of Yavin,hasCombatant,Wedge Antilles
+Battle of Endor,hasCombatant,Luke Skywalker
+Battle of Yavin,hasCombatant,Luke Skywalker
+Battle of Hoth,hasCombatant,Wedge Antilles
+Battle of Hoth,hasCombatant,Luke Skywalker
+Imperial Navy,hasCommander,Rae Sloane
+Imperial Navy,hasCommander,Gilad Pellaeon
+Outer Rim Worlds,hasDenizen,Natasi Daala
+Outer Rim Worlds,hasDenizen,Luke Skywalker
+Rebel Alliance,hasMember,Luke Skywalker
